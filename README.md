@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lee-0624</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Python**
-
 - 🤝 I’m looking for help with **ChatGPT**
 
 - 💬 Ask me about **Python, Git**
